@@ -28,4 +28,6 @@ The program can be used to check conditions in various applications, such as:
 - **Financial risk assessments** based on combined scores with an override flag.
 - **Sensor-based systems** that depend on positive or negative thresholds with a control flag.
 
+# To print the natural number
+natural.py
 
